@@ -1,6 +1,6 @@
 export default defineAppConfig({
   title: 'G-to.com',
-  email: 'g-to@fiyo.net',
+  email: 'webmaster@g-to.com',
   github: '',
   twitter: '',
   telegram: '',
